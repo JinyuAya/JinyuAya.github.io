@@ -241,11 +241,11 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #000000 0%, #1f1e33 100%);
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color: #1f1e33 !important;
 }
 
 .white-color {
@@ -257,7 +257,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #000000 0%, #1f1e33 100%);
     opacity: 0.8;
 }
 
@@ -324,7 +324,7 @@ header .side-nav .mobile-head .logo-name {
     font-size: 1.5rem;
 }
 
-header .side-nav .mobile-head .logo-desc {
+header .side-nav .mobile-head .logo-desc {oloolo
     margin-top: -10px;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -550,10 +550,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/* .bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+} */
 
 .bg-cover:before,
 .bg-cover:after {
